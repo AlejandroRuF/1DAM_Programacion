@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-border-color: black;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.calculadora1.HelloController">
+   <children>
+      <Button layoutX="36.0" layoutY="318.0" mnemonicParsing="false" onAction="#suma" prefHeight="26.0" prefWidth="103.0" text="Sumar" />
+      <TextField fx:id="op1" layoutX="249.0" layoutY="92.0" prefHeight="26.0" prefWidth="213.0" />
+      <TextField fx:id="op2" layoutX="249.0" layoutY="174.0" prefHeight="26.0" prefWidth="213.0" />
+      <Label layoutX="74.0" layoutY="91.0" text="Operador 1">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="74.0" layoutY="173.0" text="Operador 2">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label fx:id="sumar" layoutX="131.0" layoutY="247.0" prefHeight="28.0" prefWidth="319.0">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Button layoutX="177.0" layoutY="318.0" mnemonicParsing="false" onAction="#resta" prefHeight="26.0" prefWidth="103.0" text="Resta" />
+      <Button layoutX="304.0" layoutY="318.0" mnemonicParsing="false" onAction="#multiplicar" prefHeight="26.0" prefWidth="103.0" text="Multiplica" />
+      <Button layoutX="440.0" layoutY="318.0" mnemonicParsing="false" onAction="#dividir" prefHeight="26.0" prefWidth="103.0" text="Divide" />
+   </children>
+</Pane>

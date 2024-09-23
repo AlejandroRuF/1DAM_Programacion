@@ -1,0 +1,245 @@
+<mxfile host="app.diagrams.net" modified="2023-10-11T06:38:40.239Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZC6hQ5jNYHOVbZyLtPSL" version="22.0.4" type="device">
+  <diagram name="Página-1" id="6nzVVdsys_LRAPMCSI1O">
+    <mxGraphModel dx="2597" dy="2251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-1" target="Shrg4Rl6udXn-v1PZv1U-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-1" value="INICIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-2" target="Shrg4Rl6udXn-v1PZv1U-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-2" value="ESCRIBE&lt;br&gt;Escribe el numero del mes que quieras consultar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-40" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-3" target="Shrg4Rl6udXn-v1PZv1U-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-3" value="LEER&lt;br&gt;mes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-7" target="Shrg4Rl6udXn-v1PZv1U-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-7" value="case 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-8" target="Shrg4Rl6udXn-v1PZv1U-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-8" value="ESCRIBE&lt;br&gt;&quot;Enero tiene 31 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-11" target="Shrg4Rl6udXn-v1PZv1U-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-11" value="case 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-12" target="Shrg4Rl6udXn-v1PZv1U-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-12" value="ESCRIBE&lt;br&gt;&quot;Febrero tiene 28 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-14" target="Shrg4Rl6udXn-v1PZv1U-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-14" value="case 12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-15" target="Shrg4Rl6udXn-v1PZv1U-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-15" value="ESCRIBE&lt;br&gt;&quot;Diciembre tiene 31 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-17" target="Shrg4Rl6udXn-v1PZv1U-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-17" value="case 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-18" value="ESCRIBE&lt;br&gt;&quot;Marzo tiene 31 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-20" target="Shrg4Rl6udXn-v1PZv1U-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-20" value="case 11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-21" value="ESCRIBE&lt;br&gt;&quot;Noviembre tiene 30 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-23" target="Shrg4Rl6udXn-v1PZv1U-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-23" value="case 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-24" value="ESCRIBE&lt;br&gt;&quot;Octubre tiene 31 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-26" target="Shrg4Rl6udXn-v1PZv1U-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-26" value="case 8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-27" target="Shrg4Rl6udXn-v1PZv1U-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-27" value="ESCRIBE&lt;br&gt;&quot;Agosto tiene 31 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-29" target="Shrg4Rl6udXn-v1PZv1U-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-29" value="case 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-30" value="ESCRIBE&lt;br&gt;&quot;Julio tiene 31 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-32" target="Shrg4Rl6udXn-v1PZv1U-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-32" value="case 6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-33" value="ESCRIBE&lt;br&gt;&quot;Junio tiene 30 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-35" target="Shrg4Rl6udXn-v1PZv1U-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-35" value="case 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-36" value="ESCRIBE&lt;br&gt;&quot;Mayo tiene 31 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-38" target="Shrg4Rl6udXn-v1PZv1U-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-38" value="case 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-39" value="ESCRIBE&lt;br&gt;&quot;Abril tiene 30 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-41" target="Shrg4Rl6udXn-v1PZv1U-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-41" value="case 9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-42" value="ESCRIBE&lt;br&gt;&quot;Septiembre tiene 30 dias&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-58" target="Shrg4Rl6udXn-v1PZv1U-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-58" value="default" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1634" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-59" target="Shrg4Rl6udXn-v1PZv1U-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-59" value="ESCRIBE&lt;br&gt;&quot;Ese mes no existe&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1634" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Shrg4Rl6udXn-v1PZv1U-61" target="Shrg4Rl6udXn-v1PZv1U-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Shrg4Rl6udXn-v1PZv1U-75" value="FIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="520.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.login.LoginController">
+   <left>
+      <AnchorPane prefHeight="407.0" prefWidth="228.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="400.0" fitWidth="230.0" pickOnBounds="true" smooth="false">
+               <image>
+                  <Image url="@../../../login_form.jpg" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </left>
+   <right>
+      <AnchorPane prefHeight="407.0" prefWidth="228.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label alignment="CENTER" layoutX="17.0" layoutY="109.0" prefHeight="28.0" prefWidth="51.0" text="Usuario" textFill="#245da2">
+               <font>
+                  <Font size="12.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutY="149.0" prefHeight="28.0" prefWidth="68.0" text="Contraseña" textFill="#245da2">
+               <font>
+                  <Font size="12.0" />
+               </font>
+            </Label>
+            <Button defaultButton="true" layoutX="25.0" layoutY="259.0" mnemonicParsing="false" onAction="#logear" prefHeight="30.0" prefWidth="179.0" style="-fx-background-color: #245da2;" text="Login" textFill="WHITE">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <Button fx:id="cerrar" layoutX="25.0" layoutY="304.0" mnemonicParsing="false" onAction="#cierra" prefHeight="30.0" prefWidth="179.0" style="-fx-background-color: #245da2;" text="Cancelar" textFill="WHITE">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <TextField fx:id="user" layoutX="79.0" layoutY="110.0" prefHeight="26.0" prefWidth="130.0" />
+            <PasswordField fx:id="pass" layoutX="79.0" layoutY="150.0" prefHeight="26.0" prefWidth="130.0" />
+            <Label fx:id="succes" alignment="CENTER" layoutX="14.0" layoutY="200.0" prefHeight="28.0" prefWidth="207.0" textFill="#245da2">
+               <font>
+                  <Font size="12.0" />
+               </font>
+            </Label>
+            <ImageView fx:id="candado" fitHeight="56.0" fitWidth="57.0" layoutX="116.0" layoutY="24.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../lock_close.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </right>
+</BorderPane>

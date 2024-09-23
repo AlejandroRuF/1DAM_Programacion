@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="586.0" prefWidth="422.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.login.RegistroControler">
+   <children>
+      <AnchorPane layoutX="-3.0" prefHeight="86.0" prefWidth="428.0" style="-fx-background-color: #245da2;">
+         <children>
+            <ImageView fitHeight="63.0" fitWidth="72.0" layoutX="36.0" layoutY="12.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../register.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="124.0" layoutY="21.0" prefHeight="40.0" prefWidth="192.0" text="Registro de usuario" textFill="WHITE">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <Label layoutX="62.0" layoutY="117.0" prefHeight="21.0" prefWidth="63.0" text="Nombre" textFill="#245da2" />
+      <TextField fx:id="name" layoutX="62.0" layoutY="148.0" prefHeight="26.0" prefWidth="313.0" />
+      <Label layoutX="62.0" layoutY="181.0" prefHeight="21.0" prefWidth="63.0" text="Apellidos" textFill="#245da2" />
+      <TextField fx:id="surname" layoutX="62.0" layoutY="212.0" prefHeight="26.0" prefWidth="313.0" />
+      <Label layoutX="62.0" layoutY="252.0" prefHeight="21.0" prefWidth="63.0" text="Usuario" textFill="#245da2" />
+      <TextField fx:id="uuser" layoutX="62.0" layoutY="283.0" prefHeight="26.0" prefWidth="313.0" />
+      <Label layoutX="62.0" layoutY="321.0" prefHeight="21.0" prefWidth="63.0" text="Contraseña" textFill="#245da2" />
+      <PasswordField fx:id="pass" layoutX="62.0" layoutY="354.0" prefHeight="26.0" prefWidth="314.0" />
+      <Label layoutX="62.0" layoutY="389.0" prefHeight="22.0" prefWidth="139.0" text="Confirmar Contraseña" textFill="#245da2" />
+      <PasswordField fx:id="cpass" layoutX="62.0" layoutY="417.0" prefHeight="26.0" prefWidth="314.0" />
+      <Button defaultButton="true" layoutX="68.0" layoutY="456.0" mnemonicParsing="false" onAction="#registrar" prefHeight="26.0" prefWidth="314.0" style="-fx-background-color: #245da2;" text="Registrar" textFill="WHITE" />
+      <Button fx:id="Cerrar" cancelButton="true" layoutX="68.0" layoutY="489.0" mnemonicParsing="false" onAction="#cancelar" prefHeight="26.0" prefWidth="314.0" style="-fx-background-color: #245da2;" text="Cerrar" textFill="WHITE" />
+      <Label fx:id="advertencia" layoutX="68.0" layoutY="94.0" prefHeight="22.0" prefWidth="314.0" textFill="RED" />
+      <Button layoutX="68.0" layoutY="524.0" mnemonicParsing="false" onAction="#busqueda" prefHeight="26.0" prefWidth="314.0" style="-fx-background-color: #245da2;" text="Busqueda" textFill="WHITE" />
+   </children>
+</AnchorPane>
