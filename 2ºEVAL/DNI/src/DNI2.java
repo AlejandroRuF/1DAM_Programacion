@@ -62,7 +62,7 @@ public class DNI2 {
         if (sumaX == 1 || sumaX == 2) {
             vecesAparecePatronCorrecto = true;
         } else {
-            System.out.println("Tú eres gilipollas.");
+            System.out.println("Lee correctamente.");
         }
 
         if (letras(letraDNI.toUpperCase())) {
@@ -132,12 +132,12 @@ public class DNI2 {
                         }
                     }else {
 
-                        System.out.println("eres gilipollas");
+                        System.out.println("Lee correctamente");
 
                     }
             }else {
 
-                System.out.println("eres gilipollas");
+                System.out.println("Lee correctamente");
 
             }
         }
